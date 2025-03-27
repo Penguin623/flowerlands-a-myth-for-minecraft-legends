@@ -1,0 +1,54 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:biome": {
+     "components": {
+           "badger:visual_biome_attributes": {
+              "grass": {
+               "normal": {
+                   "grass_noise_intensity": 0.0,
+                   "grass_noise_scale": 0.3000000119209290,
+                   "grass_surface_color": "#34FF03"
+               },
+               "overlay": {
+                  "grass_overlay_noise_bias": 0.2000000029802322,
+                  "grass_overlay_noise_intensity": 0.8000000119209290,
+                  "grass_overlay_noise_scale": 0.6999999880790710,
+                  "grass_overlay_surface_color": "#ADE05D"
+                }
+              },
+              "map" : {
+                "biome_banner" : "map_screen/banners/legend_banner_biome_grasslands.png",
+                "biome_display_name" : "flowerlands",
+                "common_resources": ["gold"],
+                "common_resource_icon" : "/icons/resources/resource_gold.png",
+                "map_color" : "#9db987",
+                "map_color_odd" : "#9db987",
+                "map_pattern_index" : 5
+             }
+          },
+
+           "minecraft:surface_parameters": {
+                "default_surface": {
+                    "mid_material": "minecraft:grass",
+                    "top_material": "badger:block_deco_plant_foxglove_02"
+                },
+                "foundation_material": "minecraft:grass",
+                "sea_floor_depth": 0,
+                "sea_floor_material": "minecraft:grass",
+                "sea_material": "badger:block_deco_plant_foxglove_02"
+            
+            }
+          },
+     
+    
+        "description": {
+            "identifier": "flowerlands"
+        }
+    }
+}
+      
+   
+
+
+
+

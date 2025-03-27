@@ -1,0 +1,28 @@
+{
+    "factions": [
+        {
+            "biome": {
+                "biome": "flowerlands",
+                "spread_priority": 1,
+                "starting_pixels": 16,
+                "total_pixels": 16
+            },
+            "initial_villages": {
+                "small": {
+                    "count": 1
+                }
+            },
+            "placement_name": "center",
+            "placement_rules": [
+                {
+                    "game_start": {}
+                }
+            ],
+            "placement_type": "special",
+            "spawn_entity": "badger:world_center_locator",
+            "tags": ["wiki_mod", "center"],
+            "unique_card_id": "badger_center_wiki_mod_center",
+            "village_data": "badger:xp_well_of_fate"
+        }
+    ]
+}

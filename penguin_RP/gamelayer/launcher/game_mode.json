@@ -1,0 +1,16 @@
+{
+    "game_modes": [
+        {
+            "behavior_pack": "303b719a-499a-4807-8666-ba8a7afc7f43",
+            "default_privacy": 0,
+            "loading_tip_set": "campaign",
+            "max_players": 1,
+            "name": "wiki_mod",
+            "parent": "myth",
+            "resource_pack": "bf719be8-56e8-45d1-9a36-5bb1a33c3f32",
+            "telemetry_name": "Myth_Mod_Template",
+            "ui_style": "lostLegend"
+        }
+    ],
+    "myths_hub_host_list": [{ "name": "myth_test" }]
+}

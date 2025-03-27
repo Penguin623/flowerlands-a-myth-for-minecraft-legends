@@ -1,0 +1,12 @@
+{
+    "format_version": "1.15.0",
+    "badger:client_block": {
+        "wiki:custom_side": {
+            "textures": {
+                "up": "textures/blocks/flower01.png",
+                "down": "textures/blocks/flower01.png",
+                "side": "textures/blocks/flower01.png"
+            }
+        }
+    }
+}

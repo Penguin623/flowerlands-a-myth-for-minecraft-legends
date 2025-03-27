@@ -1,0 +1,24 @@
+
+{
+    "format_version": "1.8.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "wiki:custom_shape",
+            "material": "badger_grass"
+        },
+        "components": {
+            "minecraft:block_shape": {
+                "shape": "post",
+                "collision_shape": "empty"
+              
+                
+            },
+            "minecraft:destroy_time": {
+                "value": 10
+            },
+            "badger:terrain_type": {
+                "terrain": "grass"
+            }
+        }
+    }
+}
